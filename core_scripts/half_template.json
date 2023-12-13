@@ -1,0 +1,59 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",        
+    "curation": {
+	"curator": {
+		"orcid": "",
+        	  "name": ""
+        },
+	"comments": ""
+    },
+    "CuratedMeasurement": {
+        "reference": {
+          "doi": "",
+          "url": "",
+          "title": "",
+          "authors": "",
+          "year": "",
+    	  "journal": "",
+    	  "string": ""
+          },
+        "compound": {
+    	  "name": "",
+          "reduced": {
+        	  "MetaNetX": {
+          		"id": "",
+          		"charge": "",
+          		"nH":""        	  
+        	  },
+         	  "PubChem": {
+           		"id": "",
+           		"charge": "",
+           		"nH":""        	  
+         	  }
+    	  "oxidized": {
+        	  "MetaNetX": {
+          		"id": "",
+          		"charge": "",
+          		"nH":""        	  
+        	  },
+         	  "PubChem": {
+           		"id": "",
+           		"charge": "",
+           		"nH":""        	  
+         	  }
+    		}	
+        },
+        "standard_voltage_prime": "", 
+    	"equilibriumConstant":"",
+        "hydrogenPotential": "",
+        "temperature": "",
+    	"ionicStrength": ""
+      },
+    "curationNotes": { 
+      "md5_of_pdf": "",
+      "doi_of_zenodo_archive": "",
+      "download_url_of_zenodo_archive": "",
+      "comments": ""
+    }
+}

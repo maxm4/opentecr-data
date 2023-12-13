@@ -1,0 +1,41 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "",        
+	"curator": {
+		"orcid": "",
+        "name": ""
+        },
+    "CuratedMeasurement": {
+        "reference": {
+              "pmid": "",
+              "doi": "",
+              "url": "",
+              "title": "",
+              "authors": "",
+              "year": "",
+        	  "journal": "",
+        	  "tecrdb_id": "",
+        	  "tecrdb_string": ""
+          },
+        "representative_reaction": {
+        	  "name": "",
+              "KEGG": "",
+        	  "CID": "",
+              "stoichiometry": {
+        		"reactants": "",
+        		"products": ""
+              }
+        },
+        "equilibriumConstant": "", 
+        "hydrogenPotential": "",
+        "magnesiumPotential": "",
+        "temperature": "",
+        "ionicStrength": ""
+    },
+    "curationNotes": { 
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}
